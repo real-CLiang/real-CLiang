@@ -1,8 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=real-CLiang&show_icons=true">
 
-- 👋 Hi, I’m @real-CLiang
-- 👀 I’m interested in Evolutionary Computing 
-- 🌱 I’m currently learning in SCUT
+- 👋 Master in SUCT
+- 👀 Interested in Speech Recognition && Computer Graphics && CloudRender && Evaluation Algorithm
+- 🍊 Company ： trainee in HUAWEI
+- 🌱 Contact : cliang988@163.com
 - 📫 How to reach me：comment first
 
 <!---
