@@ -1,3 +1,5 @@
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-CLiang&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @real-CLiang
 - 👀 I’m interested in Evolutionary Computing 
 - 🌱 I’m currently learning in SCUT
