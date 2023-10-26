@@ -5,7 +5,7 @@
 - 🍊 Company ： trainee in HUAWEI
 - 🌱 Contact : cliang988@163.com
 - 📫 How to reach me ：comment first
-- 📕 Personal Homepage ： [Chai Liang's Personal HomePage](https://github.com/real-CLiang)
+- 📕 Personal Homepage ： [Chai Liang's Personal HomePage](https://real-cliang.github.io/)
 
 <!---
 real-CLiang/real-CLiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
