@@ -2,7 +2,7 @@
 
 - 👋 Master in SUCT
 - 👀 Interested in Speech Recognition && Computer Graphics && CloudRender && Evaluation Algorithm
-- 🍊 Company ： trainee in HUAWEI
+- 🍊 Company ： trainee in HUAWEI(ending...)
 - 🌱 Contact : cliang988@163.com
 - 📫 How to reach me ：comment first
 - 📕 Personal Homepage ： [Chai Liang's Personal HomePage](https://real-cliang.github.io/)
