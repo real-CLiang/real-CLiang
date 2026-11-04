@@ -6,7 +6,6 @@
 - 🍊 Daily work: inference engine, quantization, KV cache, speculative decoding
 - 🌱 Contact : cliang988@163.com
 - 📫 How to reach me ：comment first
-- 📕 Personal Homepage ： [Chai Liang's Personal HomePage](https://real-cliang.github.io/)
 
 ### 🛠️ Tech Stack
 
