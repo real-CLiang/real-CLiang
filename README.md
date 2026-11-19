@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=real-CLiang&show_icons=true">
 
 - 👋 Master in SUCT
-- 💼 Large Model Inference Optimization Engineer @ HUAWEI
+- 💼 Large Model Inference Optimization Engineer
 - 👀 Interested in LLM Inference && Computer Graphics && Evaluation Algorithm
 - 🍊 Daily work: inference engine, quantization, KV cache, speculative decoding
 - 🌱 Contact : cliang988@163.com
