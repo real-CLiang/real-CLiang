@@ -4,7 +4,7 @@
 - 💼 Large Model Inference Optimization Engineer
 - 👀 Interested in LLM Inference && Computer Graphics && Evaluation Algorithm
 - 🍊 Daily work: inference engine, quantization, KV cache, speculative decoding
-- 🌱 Contact : cliang988@163.com
+- 🌱 Contact : xxxx
 - 📫 How to reach me ：comment first
 
 ### 🛠️ Tech Stack
